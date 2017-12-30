@@ -1,1 +1,3 @@
-# just me lerning opencvco
+
+# just me learning opencv
+
