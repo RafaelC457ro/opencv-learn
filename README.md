@@ -1,1 +1,1 @@
-# just me lerning opencv
+# just me learning opencv
